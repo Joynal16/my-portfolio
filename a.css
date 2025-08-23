@@ -1,0 +1,16 @@
+#hero {
+  background-image: url("https://picsum.photos/seed/picsum/1920/1080");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.pp-img {
+  height: 200px;
+  width: 200px;
+}
+#Skills {
+  background-color: rgba(50, 50, 50, 0.02);
+}
+#IMG{
+  width: 200px;
+  height: 600px;
+}
